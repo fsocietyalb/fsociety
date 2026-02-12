@@ -46,7 +46,7 @@ Your only allies: curiosity and persistence.
 > “Open the file. Look closer. Nothing is what it seems.  
 > Hack. Decode. Conquer. Win. Or fail trying.”
 
-The first person to find the codeword wins 100 ALL
+The first person to find the codeword wins 10000 ALL
 
 This repo will be closed in March 1st 2026.
 The clock is ticking.
