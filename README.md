@@ -7,7 +7,7 @@ The first one to find it wins. But beware: nothing is obvious.
 
 ---
 
-## ⚠️ Challenge Overview
+##  Challenge Overview
 
 A file has been hidden. A secret lies inside.  
 Somewhere, embedded, encrypted, disguised.  
@@ -16,7 +16,7 @@ Your only allies: curiosity and persistence.
 
 ---
 
-## 🧰 Tools You Might Need
+##  Tools You Might Need
 
 - A mind that questions everything.  
 - Terminal skills, or whatever hacking toolbox you prefer.  
@@ -24,7 +24,7 @@ Your only allies: curiosity and persistence.
 
 ---
 
-## 🔑 Clues (or not)
+##  Clues (or not)
 
 - Not all is what it seems.  
 - Examine everything: names, pixels, odd strings, silent signals.  
@@ -33,7 +33,7 @@ Your only allies: curiosity and persistence.
 
 ---
 
-## 🎯 Win Condition
+##  Win Condition
 
 1. Reveal the hidden file.  
 2. Decode the chaos inside.  
